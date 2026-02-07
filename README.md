@@ -32,3 +32,24 @@ A full desktop application that simulates the workflow of a **Driving & Vehicle 
 ## Author
 **Hosny-Ayman**  
 Junior .NET Developer
+
+## Screenshots
+
+### Login
+![Login](screenshots/Login.png)
+
+### Main Dashboard
+![Dashboard](screenshots/MainProgram.png)
+
+### People Management
+![People](screenshots/People in the project.png)
+
+### Local Driving License Services
+![Local](screenshots/Local Driving License Services.png)
+
+### International License Services
+![International](screenshots/International Driving License Services.png)
+
+### Users Management
+![Users](screenshots/Users.png)
+
