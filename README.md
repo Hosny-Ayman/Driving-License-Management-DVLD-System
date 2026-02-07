@@ -42,13 +42,13 @@ Junior .NET Developer
 ![Dashboard](screenshots/MainProgram.png)
 
 ### People Management
-![People](screenshots/People in the project.png)
+![People](screenshots/people.png)
 
 ### Local Driving License Services
-![Local](screenshots/Local Driving License Services.png)
+![Local](screenshots/local_services.png)
 
 ### International License Services
-![International](screenshots/International Driving License Services.png)
+![International](screenshots/international_services.png)
 
 ### Users Management
 ![Users](screenshots/Users.png)
